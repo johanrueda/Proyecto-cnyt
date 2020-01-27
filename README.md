@@ -15,3 +15,6 @@ Este proyecto esta construido con el programa python (calculadora y pruebas) htt
 
 ## Instrucciones 🖇️
 Encontraras un archivo html donde nos indicara los comentarios de cada función, que representa, como la debes usar y como te retornara el resultado. El programa de las pruebas contiene unos ejemplos predeterminados indicando que cada función esta correctamente.
+
+## Documentación 📄
+Para ver la documentacion de la libreria [haga clic](http://htmlpreview.github.io/?https://github.com/johanrueda/Protecto_cnyt/blob/master/html/documento.html). Encontrará la descripción de cada función para hacer operaciones entre numeros complejos.
