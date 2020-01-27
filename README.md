@@ -4,7 +4,7 @@
 ### Johan David Rueda Rodriguez
 
 ## Contenido:
-Este proyecto es una calculadora de complejos donde vas a poder utilizar diversas funciones, de esta manera podras realizar calculos mas facil de tus numeros de complejos. Podras encontrar las funciones sumar, restar, multiplicar, fase, conjugado, dividir, convertir de cartesiano a polar, convertir de polar a cartesiano y hallar el modulo.
+Este proyecto es una calculadora de complejos donde vas a poder utilizar diversas funciones, de esta manera podras realizar calculos mas facil de tus numeros de complejos. Podras encontrar las funciones sumar, restar, multiplicar, fase, conjugado, dividir, convertir de cartesiano a polar, convertir de polar a cartesiano, hallar el modulo y potencia n de un complejo. Aparte de esto la caluculadora cuenta con dos funciones de imprimir,una es de imprimir de la forma a+bi y la otra exponencial.
 
 ## Ejecutando las pruebas ⚙️
 
