@@ -1,4 +1,7 @@
-# Curso CNYT Ciencias naturales y tecnologia.2154469 Calculadora de complejos, 26-01-2020, Johan David Rueda Rodriguez
+# Curso CNYT Ciencias naturales y tecnologia.
+### 2154469 Calculadora de complejos
+### 26-01-2020
+### Johan David Rueda Rodriguez
 
 ## Contenido:
 Este proyecto es una calculadora de complejos donde vas a poder utilizar diversas funciones, de esta manera podras realizar calculos mas facil de tus numeros de complejos. Podras encontrar las funciones sumar, restar, multiplicar, fase, conjugado, dividir, convertir de cartesiano a polar, convertir de polar a cartesiano y hallar el modulo.
