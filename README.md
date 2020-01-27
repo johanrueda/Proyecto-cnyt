@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Calculadora de complejos
 
 Este proyecto es una calculadora de complejos donde vas a poder utilizar diversas funciones, de esta manera podras realizar calculos mas facil de tus numeros de complejos.
 
